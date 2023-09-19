@@ -1,0 +1,52 @@
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.exe.config
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.exe
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.pdb
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.AssemblyReference.cache
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.SuggestedBindingRedirects.cache
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Forms.Agregar_proyecto.resources
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Inicio.resources
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Properties.Resources.resources
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.GenerateResource.cache
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.CoreCompileInputs.cache
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.exe
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.pdb
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.exe.config
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.exe
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.pdb
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.AssemblyReference.cache
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.SuggestedBindingRedirects.cache
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Forms.Agregar_proyecto.resources
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Inicio.resources
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Properties.Resources.resources
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.GenerateResource.cache
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.CoreCompileInputs.cache
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.exe
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.pdb
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.UI.Forms.proyectos_pendientes.resources
+C:\Users\engel\Desktop\Engels\MY WORLD\C#\Proyectos Windows Application\App de ORGM\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.UI.Forms.historial_proyectos.resources
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.exe.config
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.exe
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.pdb
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.AssemblyReference.cache
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.SuggestedBindingRedirects.cache
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Forms.Agregar_proyecto.resources
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.UI.Forms.historial_proyectos.resources
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Inicio.resources
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Properties.Resources.resources
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.UI.Forms.proyectos_pendientes.resources
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.GenerateResource.cache
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.CoreCompileInputs.cache
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.exe
+C:\Users\engel\Desktop\Engels\Programacion\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.pdb
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.exe.config
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.exe
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\bin\Debug\Listado de proyectos.pdb
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.AssemblyReference.cache
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Forms.Agregar_proyecto.resources
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.UI.Forms.historial_proyectos.resources
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Inicio.resources
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado_de_proyectos.Properties.Resources.resources
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.GenerateResource.cache
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.csproj.CoreCompileInputs.cache
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.exe
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Project list\Solution - Listado de proyectos\Listado de proyectos\obj\Debug\Listado de proyectos.pdb

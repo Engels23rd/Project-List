@@ -1,0 +1,3 @@
+16	Minisos 	Carla	Tienda	8/8/2023 12:00:00 AM	True
+19	Residendial Miriam	Kenny	Casa	3/23/2022 12:00:00 AM	True
+					
