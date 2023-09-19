@@ -12,13 +12,14 @@ To install it, you must have the following
 * Download the files
 
 Then follow these steps:
-<ol>
-  1- Enter the app folder
-  2- Enter the Querys folder
-  3- Execute the Querys
-  4- Find the executable
-  In this location: Listado de proyectos\bin\Debug\Listado de proyectos.exe"
-</ol>
+  * Enter the app folder
+    
+  * Enter the Querys folder
+
+  * Execute the Querys
+  
+  * Find the executable in this location: Listado de proyectos\bin\Debug\Listado de proyectos.exe"
+
 
 # Forms
 Forms with a minimalist and beautiful design:
