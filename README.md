@@ -4,26 +4,40 @@ it is a project that can be used by anyone but it was more focused on people who
 by comison, since they have to charge for what they do then what else a program that can have all 
 your project aimed for when you have to charge you can remember what you did.
 
+# Installation
+To install it, you must have the following
+
+* SQL SERVER
+* SQL SERVER Management Studio
+* Download the files
+
+Then follow these steps: 
+1- Enter the app folder
+2- Enter the Querys folder
+3- Execute the Querys
+4- Find the executable
+In this location: Listado de proyectos\bin\Debug\Listado de proyectos.exe"
+
 # Forms
 Forms with a minimalist and beautiful design:
 
 ![Home](https://github.com/Engels23rd/Project-List/assets/89677093/ad51ecda-dd29-4980-9c8f-ce6e1a686a1d)
 
-Esta es pa pestaña de inicio.
+This is the home tab.
 
 
 ![Project emty](https://github.com/Engels23rd/Project-List/assets/89677093/dffc2bc9-6dd0-4311-b5be-01b273c946f8)
 
-Esta es la pestaña donde puede apuntar sus proyectos.
+This is the tab where you can enter your projects.
 
 
 ![Project](https://github.com/Engels23rd/Project-List/assets/89677093/1510ad38-349f-4ca0-a03c-a794d041069e)
 
-Esta es la misma solo que con proyectos apuntado, los proyecto solo se mantendran en esa pestaña hasta que se cumpla el
-mes ya despues se colocara en historial.
+This is the same only with projects pointed, the projects will only be kept in that tab until the month is fulfilled and then it will be placed in history.
+month and then it will be placed in history.
 
 
 ![History](https://github.com/Engels23rd/Project-List/assets/89677093/68307091-562f-4586-b58b-3ab1aa46f0e1)
 
-Esta es la pestaña de historial de proyectos donde podras ver todos los proyectos que haz hecho
+This is the project history tab where you can see all the projects you have done.
 
