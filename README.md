@@ -5,13 +5,13 @@ by comison, since they have to charge for what they do then what else a program 
 your project aimed for when you have to charge you can remember what you did.
 
 
-# Tecnologias Utilizadas
+# Technologies Used
 * Visual Studio
 * .NET
 * Selenim
 
 
-# Estado del proyecto
+# Project Status
 The project is in its testing and improvement phase, there are details in mind and improvements.
 
 
