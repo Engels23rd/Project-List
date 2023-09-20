@@ -9,6 +9,8 @@ your project aimed for when you have to charge you can remember what you did.
 * Visual Studio
 * .NET
 * Selenim
+* SQL server
+* SQL server Management Studio
 
 
 # Project Status
@@ -16,8 +18,7 @@ The project is in its testing and improvement phase, there are details in mind a
 
 
 # Installation
-To install it, you must have the following
-
+To install it, you must have the following:
 * SQL SERVER
 * SQL SERVER Management Studio
 * Download the files
