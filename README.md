@@ -4,6 +4,17 @@ it is a project that can be used by anyone but it was more focused on people who
 by comison, since they have to charge for what they do then what else a program that can have all 
 your project aimed for when you have to charge you can remember what you did.
 
+
+# Tecnologias Utilizadas
+* Visual Studio
+* .NET
+* Selenim
+
+
+# Estado del proyecto
+The project is in its testing and improvement phase, there are details in mind and improvements.
+
+
 # Installation
 To install it, you must have the following
 
